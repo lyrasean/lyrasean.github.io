@@ -3,8 +3,6 @@
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="音乐广播" radio="true",CRI HIT FM (北京)
 https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="音乐广播" radio="true",CRI HIT FM (广州)
@@ -57,13 +55,3 @@ https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏音乐广播.png" group-title="音乐广播" radio="true",江苏音乐广播
 https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州生活广播.png" group-title="苏州广播" radio="true",苏州生活广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州儿童广播.png" group-title="苏州广播" radio="true",苏州儿童广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州综合广播.png" group-title="苏州广播" radio="true",苏州综合广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1631607649319_Vd7ueakoB.jpeg" group-title="苏州广播" radio="true",苏州交通经济广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2018/0212/20180212113048425.jpg" group-title="苏州广播" radio="true",苏州戏曲广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
