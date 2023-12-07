@@ -21,8 +21,8 @@ echo
 
 function pause()
 {
-  # breakpoint for debugging
-  echo -e "${YELLOW}Press any key to continue, or Ctrl+C to exit...${RESET}"
+	# breakpoint for debugging
+	echo -e "${YELLOW}Press any key to continue, or Ctrl+C to exit...${RESET}"
 	read -n1 -s
 	echo
 }
