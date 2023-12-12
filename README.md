@@ -1,6 +1,6 @@
 # Android
-[CTS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/cts_setup_bookworm.sh)  
-[CameraITS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/its_setup_bookworm.md)  
+🛠[CTS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/cts_setup_bookworm.sh)  
+🛠[CameraITS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/its_setup_bookworm.md)  
 
 ---  
   
