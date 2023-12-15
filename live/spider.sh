@@ -7,9 +7,9 @@ fi
 touch ~/test.m3u
 echo '#EXTM3U' > ~/test.m3u
 
-num=3221225000
+num=3221225700
 
-while(( $num<3221227000 ))
+while (( $num < 3221227000 ))
 do
 	wget -qs http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/${num}/1.m3u8
 	if [ $? -eq 0 ]; then
