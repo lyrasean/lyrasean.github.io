@@ -1,4 +1,4 @@
-# LYRASEAN's GitHub Pages
+# [LYRASEAN's GitHub Pages](https://github.com/lyrasean/lyrasean.github.io)
 
 ## Android
 🛠[CTS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/cts_setup_bookworm.sh)  
