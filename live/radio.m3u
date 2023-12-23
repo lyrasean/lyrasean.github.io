@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lyrasean.github.io/live/sbs.jpg" group-title="苏州广播",苏州新闻广播
+http://live.cooltv.top/tv/ytradio.php?id=694
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lyrasean.github.io/live/sbs.jpg" group-title="苏州广播",苏州儿童广播
+http://live.cooltv.top/tv/ytradio.php?id=695
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lyrasean.github.io/live/sbs.jpg" group-title="苏州广播",苏州生活广播
+http://live.cooltv.top/tv/ytradio.php?id=696
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lyrasean.github.io/live/sbs.jpg" group-title="苏州广播",苏州音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=697
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lyrasean.github.io/live/sbs.jpg" group-title="苏州广播",苏州交通广播
+http://live.cooltv.top/tv/ytradio.php?id=698
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
@@ -43,7 +53,7 @@ http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr神州之声.png" group-title="综合广播" radio="true",CNR神州之声
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://live.fanmingming.com/radio/中国交通广播.png" group-title="综合广播" radio="true",CNR中国交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中国交通广播.png" group-title="综合广播" radio="true",CNR中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="综合广播" radio="true",上海长三角之声
 https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
