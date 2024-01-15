@@ -98,8 +98,8 @@ function install_51-android_rules()
 	# Another method still maintained in github
 	# https://github.com/M0Rf30/android-udev-rules
 	[ -e ~/android-udev-rules ] && rm -rf ~/android-udev-rules
-	if [ -e ~/Downloads/android-udev-rules-20231124.zip ]; then
-		unzip -o ~/Downloads/android-udev-rules-20231124.zip -d ~
+	if [ -e ~/Downloads/android-udev-rules-20240114.zip ]; then
+		unzip -o ~/Downloads/android-udev-rules-20240114.zip -d ~
 		mv ~/android-udev-rules-20231124 ~/android-udev-rules
 	else
 		git clone https://github.com/M0Rf30/android-udev-rules.git
@@ -107,7 +107,7 @@ function install_51-android_rules()
 			[ "$myDir" != "$HOME" ] && mv -f "$myDir"/android-udev-rules ~
 		else
 			echo -e "${RED}[Error] Since github might not be accessed via Mainland's internet sometimes,"
-			echo -e "copy android-udev-rules-20231124.zip to ~/Downloads manually,"
+			echo -e "copy android-udev-rules-20240114.zip to ~/Downloads manually,"
 			echo -e "and then re-try this step.${RESET}"
 			exit 1
 		fi
