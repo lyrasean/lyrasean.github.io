@@ -100,7 +100,7 @@ function install_51-android_rules()
 	[ -e ~/android-udev-rules ] && rm -rf ~/android-udev-rules
 	if [ -e ~/Downloads/android-udev-rules-20240114.zip ]; then
 		unzip -o ~/Downloads/android-udev-rules-20240114.zip -d ~
-		mv ~/android-udev-rules-20231124 ~/android-udev-rules
+		mv ~/android-udev-rules-20240114 ~/android-udev-rules
 	else
 		git clone https://github.com/M0Rf30/android-udev-rules.git
 		if [ -e "$myDir"/android-udev-rules ]; then
