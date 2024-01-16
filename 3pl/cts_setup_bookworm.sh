@@ -35,7 +35,9 @@ function MUST_RUN_FIRST()
 	# Establishing a build environment
 	# https://source.android.google.cn/docs/setup/start/initializing
 	echo -e "${BLUE}Installing building prerequisites...${RESET}"
-	echo $password | sudo -S apt install -y git-core gnupg flex bison build-essential zip curl zlib1g-dev libc6-dev-i386 libncurses5 x11proto-core-dev libx11-dev lib32z1-dev libgl1-mesa-dev libxml2-utils xsltproc unzip fontconfig wget gedit
+	echo $password | sudo -S apt install -y git-core gnupg flex bison build-essential zip curl \
+ 	zlib1g-dev libc6-dev-i386 libncurses5 x11proto-core-dev libx11-dev lib32z1-dev \
+  	libgl1-mesa-dev libxml2-utils xsltproc unzip fontconfig wget gedit
 
 	# Installing python3.11-full. bookworm has installed Python 3.11.2
 	echo -e "${BLUE}Installing Python 3.11 and tools...${RESET}"
@@ -44,9 +46,11 @@ function MUST_RUN_FIRST()
 	# `ldd --version' shows bookworm has installed GLIBC 2.36
 
 	# Installing samba
+ 	# https://askubuntu.com/questions/1464804/ubuntu-23-04-network-file-sharing-windows-cannot-access-ubuntu-public
 	echo -e "${BLUE}Installing Samba for file-sharing...${RESET}"
-	echo $password | sudo -S apt install -y samba
+	echo $password | sudo -S apt install -y samba nautilus-share
 	echo $password | sudo -S apt-get -f install -y
+ 	sudo usermod -a -G sambashare $LOGNAME
 
 	echo -e "${GREEN}############################################${RESET}"
 	echo -e "${GREEN}STEP.1 ===============================> 100%${RESET}"
