@@ -4,7 +4,7 @@
 🛠[CameraITS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/its_setup_bookworm.md)
 
 ## IPTV
-📺 <https://lyrasean.github.io/live/tv.m3u>  
+📺 <https://lyrasean.github.io/live/ipv6.m3u>  
 📻 <https://lyrasean.github.io/live/radio.m3u>
 
 ## 君到姑苏见
