@@ -24,7 +24,7 @@
 [第十四季《寻色·古村》](https://lyrasean.github.io/ksz/S14.html)  
 [第十五季《非遗焕新人》](https://lyrasean.github.io/ksz/S15.html) （更新中）  
 
-## 君到姑苏见·长远勿见
-[2022](https://lyrasean.github.io/ksz/长远勿见2022.html)  
-[2023](https://lyrasean.github.io/ksz/长远勿见2023.html)  
-[2024](https://lyrasean.github.io/ksz/长远勿见2024.html) （更新中）  
+## 长远勿见
+[2022](https://lyrasean.github.io/ksz/2022.html)  
+[2023](https://lyrasean.github.io/ksz/2023.html)  
+[2024](https://lyrasean.github.io/ksz/2024.html) （更新中）  
