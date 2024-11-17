@@ -23,3 +23,4 @@ gcim Win32_Processor | Format-List > c:\nxt\CPU.txt
 Suspend-BitLocker -MountPoint "C:" -RebootCount 0
 # Resume-BitLocker -MountPoint "C:"
 Get-BitLockerVolume -MountPoint "C:" | Format-List
+
