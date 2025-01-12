@@ -27,4 +27,5 @@
 ## 长远勿见
 [2022](https://lyrasean.github.io/ksz/2022.html)  
 [2023](https://lyrasean.github.io/ksz/2023.html)  
-[2024](https://lyrasean.github.io/ksz/2024.html) （更新中）  
+[2024](https://lyrasean.github.io/ksz/2024.html)  
+[2025](https://lyrasean.github.io/ksz/2025.html) （更新中）  
