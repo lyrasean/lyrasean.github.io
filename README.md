@@ -1,12 +1,5 @@
 # [LYRASEAN's GitHub Pages](https://github.com/lyrasean/lyrasean.github.io)
 
-## Android CTS
-🛠[CameraITS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/its_setup_bookworm.md)
-
-## IPTV
-📺 <https://m3u.ibert.me/fmml_ipv6.m3u>  
-📻 <https://lyrasean.github.io/live/radio.m3u>
-
 ## 君到姑苏见
 [第一季《解码平江图》](https://lyrasean.github.io/ksz/S01.html)  
 [第二季《苏园新探》](https://lyrasean.github.io/ksz/S02.html)  
@@ -29,3 +22,10 @@
 [2023](https://lyrasean.github.io/ksz/2023.html)  
 [2024](https://lyrasean.github.io/ksz/2024.html)  
 [2025](https://lyrasean.github.io/ksz/2025.html) （更新中）  
+
+## Android CTS
+🛠[CameraITS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/its_setup_bookworm.md)
+
+## IPTV
+📺 <https://m3u.ibert.me/fmml_ipv6.m3u>  
+📻 <https://lyrasean.github.io/live/radio.m3u>
