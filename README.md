@@ -21,7 +21,7 @@
 [2022](https://lyrasean.github.io/ksz/2022.html)  
 [2023](https://lyrasean.github.io/ksz/2023.html)  
 [2024](https://lyrasean.github.io/ksz/2024.html)  
-[2025](https://lyrasean.github.io/ksz/2025.html) （更新中）  
+[2025](https://lyrasean.github.io/ksz/2025.html)   
 
 ## Android CTS
 🛠[CameraITS Setup](https://github.com/lyrasean/lyrasean.github.io/blob/main/3pl/its_setup_bookworm.md)
